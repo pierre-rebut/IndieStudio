@@ -3,7 +3,7 @@
 ## Description
 Jeux du Gauntlet développer par Pierre Rebut, Vincent Ganivet, Maxime Pavot, Simon Desplat, Etienne Jeanmart et Lucas Parsy
 
-Application développer en C++ et Ogre3D
+Application développer en C++ et Ogre3D compatible Linux
 
 ## Installation
 hg (Mercurial) est nécesaire pour télécharger Ogre3D
