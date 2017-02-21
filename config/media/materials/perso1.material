@@ -1,0 +1,13 @@
+material Perso1
+{
+    technique
+    {
+        pass
+        {
+		    texture_unit
+			{
+			    texture nskinyl.jpg
+			}
+        }
+    }
+}

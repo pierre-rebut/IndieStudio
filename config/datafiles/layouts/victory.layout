@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GUILayout version="4">
+
+  <Window type="DefaultWindow" name="victoryScreen" >
+    <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}" />
+
+    <Window type="Generic/Image" name="defeat" >
+      <Property name="Area" value="{{0.25,0},{0.15,0},{0.75,0},{0.90,0}}" />
+      <Property name="Image" value="TaharezLook/defeat" />
+      <Property name="MaxSize" value="{{1,0},{1,0}}" />
+    </Window>
+
+    <Window type="Generic/Image" name="victory" >
+      <Property name="Area" value="{{0.25,0},{0.15,0},{0.75,0},{0.90,0}}" />
+      <Property name="Image" value="TaharezLook/victory" />
+      <Property name="MaxSize" value="{{1,0},{1,0}}" />
+    </Window>
+
+      
+  </Window>
+</GUILayout>

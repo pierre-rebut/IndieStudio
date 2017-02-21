@@ -1,0 +1,13 @@
+material Perso2
+{
+    technique
+    {
+        pass
+        {
+		    texture_unit
+			{
+			    texture nskinbl.jpg
+			}
+        }
+    }
+}

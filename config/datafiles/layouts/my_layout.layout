@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GUILayout version="4">
+  <Window type="Generic/Image" name="Splash" >
+    <Property name="Area" value="{{0,0},{0,0},{1,0},{1,0}}" />
+    <Property name="Image" value="TaharezLook/splashScreen" />
+    <Property name="MaxSize" value="{{1,0},{1,0}}" />
+
+    <Window type="TaharezLook/Button" name="StartOnePlayer" >
+      <Property name="Area" value="{{0,0},{0.42,0},{0.30,0},{0.50,0}}" />
+      <Property name="Text" value="Un Joueur" />
+      <Property name="MaxSize" value="{{1,0},{1,0}}" />
+      <Property name="NormalTextColour" value="FFEECA02" />
+      <Property name="HoverTextColour" value="FFEECA02" />
+      <Property name="PushedTextColour" value="FFEECA02" />
+      <Property name="HorizontalAlignment" value="Centre" />
+  </Window>
+
+   <Window type="TaharezLook/Button" name="StartTwoPlayer" >
+      <Property name="Area" value="{{0,0},{0.55,0},{0.30,0},{0.62,0}}" />
+      <Property name="Text" value="Deux Joueurs" />
+      <Property name="MaxSize" value="{{1,0},{1,0}}" />
+      <Property name="NormalTextColour" value="FFEECA02" />
+      <Property name="HoverTextColour" value="FFEECA02" />
+      <Property name="PushedTextColour" value="FFEECA02" />
+      <Property name="HorizontalAlignment" value="Centre" />
+  </Window>
+
+  <Window type="TaharezLook/Button" name="QuitButton" >
+    <Property name="Area" value="{{0,0},{0.65,0},{0.3,0},{0.73,0}}" />
+    <Property name="Text" value="Quitter" />
+    <Property name="MaxSize" value="{{1,0},{1,0}}" />
+    <Property name="NormalTextColour" value="FFEECA02" />
+    <Property name="HoverTextColour" value="FFEECA02" />
+    <Property name="PushedTextColour" value="FFEECA02" />
+    <Property name="HorizontalAlignment" value="Centre" />
+  </Window>
+
+  <Window type="TaharezLook/Checkbox" name="difficulty" >
+    <Property name="Area" value="{{0.00,0},{0.80,0},{0.3,0},{0.92,0}}" />
+    <Property name="Text" value="Hardcore mode" />
+    <Property name="MaxSize" value="{{1,0},{1,0}}" />
+    <Property name="HorizontalAlignment" value="Centre" />
+  </Window>
+
+  </Window>
+</GUILayout>

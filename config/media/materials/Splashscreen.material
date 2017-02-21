@@ -1,0 +1,13 @@
+material Splashscreen
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				anim_texture lapin.png 111 9.3
+			}
+		}
+	}
+}
