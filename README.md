@@ -1,7 +1,7 @@
 # IndieStudio
 
 ## Description
-Projet EPITECH développer par Pierre Rebut, Vincent Ganivet, Maxime Pavot, Simon Desplat, Etienne Jeanmart et Lucas Parsy
+Jeux du Gauntlet développer par Pierre Rebut, Vincent Ganivet, Maxime Pavot, Simon Desplat, Etienne Jeanmart et Lucas Parsy
 
 Application développer en C++ et Ogre3D
 
